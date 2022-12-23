@@ -8,7 +8,7 @@
 -  Looking to collaborate for **Software-Hardware Integration & Development**
 -  Looking for help with **Flight Monitoring Interface Development**
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=stdsorcerer&show_icons=true&locale=en" alt="stdsorcerer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stdsorcerer&show_icons=true&locale=en" alt="stdsorcerer" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stdsorcerer&show_icons=true&locale=en&layout=compact" alt="stdsorcerer" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stdsorcerer&" alt="stdsorcerer" /></p>
 
