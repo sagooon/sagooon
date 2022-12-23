@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74248485/209372502-f0580c18-f653-4203-8415-8e111482ac33.gif)]()
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stdsorcerer&label=Profile%20views&color=0e75b6&style=flat" alt="stdsorcerer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stdsorcerer&label=Profile%20views&color=0e75b6&style=flat" alt="stdsorcerer" /> </p> 
 
 ### Competence 
 `OOPS` `WebDev` `IoT` `Linux/UNIX` `Hacking`  `Forensics`
