@@ -1,8 +1,6 @@
 [![git-prof](https://github.com/sagooon/sagooon/assets/74248485/25fea552-aa9d-4d7a-a236-2e2f0a086087)](https://sagooon.github.io)
 
-### Introduction
-
-In the vast canvas of the universe, I'm a tiny thread woven into the fabric of spacetime. I'm but a humble inter alia of mankind, expressing myself through these calculated words. <b>Saisagun Thapa (alias: sagooon), a Science Communicator and an aspiring Space Scientist</b>, well, that is how I get introduced. With an insatiable curiosity for innovation and a penchant for problem-solving, I research/code to architect complex solutions that transcend the ordinary.
+With aspirations to contribute as a space scientist, my pursuit is anchored in the belief that knowledge is the catalyst for unlocking the immense potential beyond our earthly boundaries.
 <p>&nbsp;</p>
 
 ### Available for
