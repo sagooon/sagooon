@@ -1,7 +1,6 @@
 [![git-prof](https://github.com/sagooon/sagooon/assets/74248485/25fea552-aa9d-4d7a-a236-2e2f0a086087)](https://sagooon.github.io)
 
 With aspirations to contribute as a space scientist, my pursuit is anchored in the belief that knowledge is the catalyst for unlocking the immense potential beyond our earthly boundaries.
-<p>&nbsp;</p>
 
 ### Available for
 
